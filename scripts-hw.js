@@ -28,7 +28,3 @@ function rmBody(body) {
   document.getElementById(body).remove();
   
 }
-
-
-
-
